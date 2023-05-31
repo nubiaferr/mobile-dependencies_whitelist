@@ -1295,25 +1295,25 @@
       "expires": "2023-08-18",
       "group": "org\\.jetbrains\\.kotlin",
       "name": "kotlin-stdlib",
-      "version": "1\\.5\\.32"
+      "version": "1\\.7\\.21"
     },
     {
       "expires": "2023-08-18",
       "group": "org\\.jetbrains\\.kotlin",
       "name": "kotlin-stdlib-common",
-      "version": "1\\.5\\.32"
+      "version": "1\\.7\\.21"
     },
     {
       "expires": "2023-08-18",
       "group": "org\\.jetbrains\\.kotlin",
       "name": "kotlin-stdlib-jdk8",
-      "version": "1\\.5\\.32"
+      "version": "1\\.7\\.21"
     },
     {
       "expires": "2023-08-18",
       "group": "org\\.jetbrains\\.kotlin",
       "name": "kotlin-stdlib-jdk7",
-      "version": "1\\.5\\.32"
+      "version": "1\\.7\\.21"
     },
     {
       "group": "org\\.jetbrains\\.kotlin",
